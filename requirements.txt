@@ -1,2 +1,4 @@
 pandas==1.5.1
+openpyxl==3.0.10
 matplotlib==3.6.2
+watermark==2.4.3
