@@ -1,0 +1,12 @@
+---
+plate01:
+    - Nutrient broth, incubated at 37°C"
+    - Soil sample diluted 10x (1 ml soil slurry, 9 ml soil water)
+    - Liquid evaporated on top of lid
+    - Measurements were later done without lid
+plate02:
+    - 100x diluted nutrient broth (with soil water), incubated at 37°C
+    - Soil sample diluted 10x (0.1 ml soil slurry, 9.9 ml soil water)
+    - Liquid evaporated on top of lid
+    - Measurements were later done without lid
+...
