@@ -1,12 +1,23 @@
 ---
 plate01:
+    - 1 g soil suspension, diluted 10x
     - Nutrient broth, incubated at 37°C"
-    - Soil sample diluted 10x (1 ml soil slurry, 9 ml soil water)
     - Liquid evaporated on top of lid
     - Measurements were later done without lid
+    - Side wells dried up; Topup volume whole plate on 17/07/2023
 plate02:
+    - 1 g soil suspension, diluted 100x
     - 100x diluted nutrient broth (with soil water), incubated at 37°C
-    - Soil sample diluted 10x (0.1 ml soil slurry, 9.9 ml soil water)
     - Liquid evaporated on top of lid
     - Measurements were later done without lid
+    - Side wells dried up; Topup volume whole plate on 17/07/2023
+plate03:
+    - 1 g soil suspension
+    - 100x diluted nutrient broth (with soil water), pH 3.4, incubated at 37°C
+plate04:
+    - 1 g soil suspension
+    - PSYL5 broth
+plate05:
+    - 1 g soil suspension
+    - PSYL5 broth, pH 3.5
 ...
